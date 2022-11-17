@@ -60,10 +60,15 @@ python RainingEmoji.py
 ```
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/ImageSegmentation/blob/main/input.jpg">
+<img src="https://github.com/noorkhokhar99/Raining-Emoji-mediapipe/blob/main/WhatsApp%20Image%202022-11-17%20at%201.21.00%20PM.jpeg">
 
 
-<img src="https://github.com/noorkhokhar99/ImageSegmentation/blob/main/output.png">
+<img src="https://github.com/noorkhokhar99/Raining-Emoji-mediapipe/blob/main/WhatsApp%20Image%202022-11-17%20at%201.21.01%20PM.jpeg">
+
+
+<img src="https://github.com/noorkhokhar99/Raining-Emoji-mediapipe/blob/main/WhatsApp%20Image%202022-11-17%20at%201.21.02%20PM.jpeg">
+
+<img src="https://github.com/noorkhokhar99/Raining-Emoji-mediapipe/blob/main/WhatsApp%20Image%202022-11-17%20at%201.21.03%20PM.jpeg">
 
 </p>
 
