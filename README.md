@@ -1,4 +1,4 @@
-# Raining Emoji 🌧️ 🐶 🐵 🦁 🐷 🐨
+# Raining Emoji  with python opencv mediapipe
 
 
 What can be better than your favourite emojis raining?
