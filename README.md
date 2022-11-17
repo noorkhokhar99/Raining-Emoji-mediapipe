@@ -1,19 +1,14 @@
 # Raining Emoji 🌧️ 🐶 🐵 🦁 🐷 🐨
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 What can be better than your favourite emojis raining?
 
-## Inspiration 🗽
-The pymunk logic is heavily inspired from [Amirabbas Asadi's toy project](https://github.com/amirabbasasadi/toy-project-cv-physics-engine)
 
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
 `pip install -r requirements.txt`
 
-## Description 🌈
-Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python. Perfect when you need 2d physics in your game, demo or other application! It is built on top of the very capable 2d physics library Chipmunk.
 
 MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
 
@@ -33,23 +28,6 @@ MediaPipe offers cross-platform, customizable ML solutions for live and streamin
 13) Frog 🐸
 
 
-## File Organization 🗄️
-
-```shell
-├── Raining-Emoji (Current Directory)
-    ├── emoji : Emoji Folder
-        ├── 0.png
-        ├── 1.png
-            .
-            .
-        └── 12.png
-    ├── utils : Utils Folder
-        ├── cv_utils.py : OpenCV utilities
-        └── physics_utils.py : Pymunk utilities
-    ├── RainingEmoji.py : Main Application
-    ├── LICENSE
-    ├── requirements.txt
-    └── readme.md
         
 ```
 
@@ -69,16 +47,10 @@ If you face any problem, kindly raise an issue
 ## Execution 🐉
 
 ```
-python3 RainingEmoji.py
+python RainingEmoji.py
 ```
 
 ## Results 📊
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/rain.gif">
-
-## References: 🔱
- 
- - [Amirabbas Asadi's toy project](https://github.com/amirabbasasadi/toy-project-cv-physics-engine)
- -  Ivan Grishchenko and Valentin Bazarevsky, Research Engineers, Google Research. [Mediapipe by Google](https://github.com/google/mediapipe)
 
 
 
