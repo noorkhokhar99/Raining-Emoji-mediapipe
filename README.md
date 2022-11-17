@@ -4,6 +4,15 @@
 What can be better than your favourite emojis raining?
 
 
+
+- Clone the repository.
+```
+git clone https://github.com/noorkhokhar99/Raining-Emoji-mediapipe.git
+```
+- Goto the cloned folder.
+```
+cd Raining-Emoji-mediapipe
+
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
@@ -50,7 +59,21 @@ If you face any problem, kindly raise an issue
 python RainingEmoji.py
 ```
 
-## Results 📊
+<p align="center">
+<img src="https://github.com/noorkhokhar99/ImageSegmentation/blob/main/input.jpg">
+
+
+<img src="https://github.com/noorkhokhar99/ImageSegmentation/blob/main/output.png">
+
+</p>
+
+
+
+
+
+
+### Inference on a video:
+https://www.youtube.com/watch?v=G28s0FUqUys
 
 
 
